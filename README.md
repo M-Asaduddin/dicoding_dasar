@@ -1,2 +1,5 @@
 # dicoding_dasar
-Website untuk proyek akhir Dicoding course 'Dasar Pemrograman Web' 
+Website untuk proyek akhir Dicoding <i>course</i> 'Dasar Pemrograman Web' 
+oleh Muhammad Asaduddin
+
+Untuk melihat hasil web, buka link 
